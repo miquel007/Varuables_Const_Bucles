@@ -11,7 +11,7 @@ namespace ConsoleApp38
 
     }
 
-    class Program
+    class Program1
     {
         
 
